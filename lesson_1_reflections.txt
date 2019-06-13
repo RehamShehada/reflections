@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By comparing the changes between the old and the new files, Which led us to notice the typo.
+...................................................................................
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+...................................................................................
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+PROS: We can commit whenever you feel is the right time to commit.
+      Also,we commit only when we have a compiled version of our program.
+CONS: if the power shut off or the OS crashes we can loose every change if we are not committing manualy.
+...................................................................................
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+When writing a programm a lot of times we have multiple files that combined make the programm so most of the times changing one file
+effects other files. But in google docs we can create a thousand document yet google docs can't know if one document effect another.
+...................................................................................
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Version control in general, but for now it's for learning perposes.
+...................................................................................
+How can you use the commands git log and git diff to view the history of files?
+
+git log : returns all the commits id's and their describtion.
+git diff : returns the difference between two id's (two commits).
+...................................................................................
+How might using version control make you more confident to make changes that
+could break something?
+
+I can easily revert back to a previous version and undo the changes, wich makes me confident experimenting on my code.
+...................................................................................
