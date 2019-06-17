@@ -5,5 +5,32 @@ we ready up the git to start version control (Tracking).
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+working dir: contains our project's files.
+staging area: contains the files to be commit.
+repo: contains the tracking record of all the projects versions.
+...................................................................................
+How can you use the staging area to make sure you have one commit per logical change?
 
+by adding one file to be commited at a time.
+...................................................................................
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+for experimental coding for example. It would help by giving us the freedom to do changes and 
+commit them to different  version while still have access to the original branch versions. 
+...................................................................................
+How do the diagrams help you visualize the branch structure?
+
+by giving us better imagination of how branching works.
+...................................................................................
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+One big branch including all the commits from the two branches.
+to get better understanding of how it works. ask yourselves.
+...................................................................................
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+cons:
 ...................................................................................
